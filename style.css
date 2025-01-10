@@ -34,3 +34,8 @@ p, input, span, small {
     margin: auto;
     padding: 20px 0;
 }
+
+header {
+    color: #581b98;
+    font-weight: 600;
+}
