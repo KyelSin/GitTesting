@@ -38,4 +38,20 @@ p, input, span, small {
 header {
     color: #581b98;
     font-weight: 600;
+    /* ================ dev-2 =============== */
+    background-color: #fff;
+    width: 900px;
+    padding: 20px 40px;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    margin: auto;
+}
+
+/* ================ dev-2 =============== */
+header > h3 {
+    font-weight: 700;
+    opacity: 0.7;
+    color: #e41749;
+    text-align: center;
+    padding: 20px 0;
 }
