@@ -26,3 +26,11 @@ p, input, span, small {
     color: #fc5185;
     text-align: center;
 }
+
+.section {
+    color: #775ada;
+    text-align: start;
+    width: 800px;
+    margin: auto;
+    padding: 20px 0;
+}
